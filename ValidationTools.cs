@@ -10,6 +10,7 @@ namespace Textvalidation
     internal class ValidationTools
     {
         #region data
+            //Ik, better use data base but I didnt have opportunity
         public static string special_1 = " że ";
         public static string special_2 = " ze ";
         public static string special_3 = " aby ";
